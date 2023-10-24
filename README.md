@@ -1,7 +1,10 @@
 # Exploratory-Data-Analysis-of-Unicorn-Companies
 Data-Driven Analysis of Unicorn Companies (March 2022) for High-Growth Potential and Investment Diversification
+
 **Project Title:** Exploratory Data Analysis of Unicorn Companies
+
 **Project Description:** In this project, I performed a comprehensive exploratory data analysis (EDA) of a dataset containing information about Unicorn Companies as of March 2022. The Unicorn Companies are privately held startups valued at over $1 billion. The dataset includes various features such as current valuation, funding, country of origin, industry, select investors, and key historical information like the year each company was founded and the year they achieved unicorn status.
+
 **The objective** is to provide data-driven recommendations for Unicorn Companies to enhance their business models, make strategic investment decisions, prioritize companies with high growth potential, and emphasize those with experienced leadership teams.
 
 **Steps Taken**
